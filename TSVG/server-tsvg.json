@@ -1,0 +1,8 @@
+{
+    "name":"tsvg",
+    "web":{
+        "rewrites":{
+            "enable":true
+        }
+    }
+}

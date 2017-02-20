@@ -1,0 +1,18 @@
+{
+    "dependencies":{
+        "coldbox":"^4.3.0+188",
+        "wirebox":"^4.3.0+188",
+        "cachebox":"^4.3.0+188",
+        "logbox":"^4.3.0+188",
+        "testbox":"^2.4.0+80",
+        "cbdebugger":"^1.4.0+00008"
+    },
+    "installPaths":{
+        "coldbox":"coldbox",
+        "wirebox":"wirebox",
+        "cachebox":"cachebox",
+        "logbox":"logbox",
+        "testbox":"testbox",
+        "cbdebugger":"modules\\cbdebugger"
+    }
+}
